@@ -1,2 +1,5 @@
 ini belajar git
 belajar comman git pull
+
+-- aftiyan
+ini perubahan dari mas tiyan
